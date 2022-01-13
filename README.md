@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s1l1c1s
-- 👀 I’m interested in HPC, GPU, science fiction, scripting, anime, zones
+- 👀 I’m interested in HPC, science fiction, scripting, anime, Solaris zones
 - 🌱 I’m currently learning gitlab, openshift, podman, ansible, ipa, packer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

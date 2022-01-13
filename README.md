@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @s1l1c1s
+- 👀 I’m interested in HPC, GPU, science fiction, scripting, anime, zones
+- 🌱 I’m currently learning github, openshift, podman, ansible, ipa, packer
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+s1l1c1s/s1l1c1s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
